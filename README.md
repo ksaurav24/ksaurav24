@@ -1,202 +1,223 @@
 <!--
   github.com/ksaurav24
-  Palette: ink #24224A · coral #FF6B6B · amber #F7B955 · mint #7BE0C3 · sky #69B7FF · cream #FFF7EA
+  Visual direction: one illustrated hero, quiet typography, compact project cards.
+  Palette: ink #24224A · coral #FF6B6B · amber #F7B955 · mint #7BE0C3 · sky #69B7FF
 -->
 
 <div align="center">
 
-<img src="./assets/profile-landscape.webp" width="100%" alt="An illustrated landscape of connected digital products, systems, and a compass" />
+<img src="./assets/profile-landscape.webp" width="100%" alt="An illustrated landscape where connected product screens sit among bridges, water, and a compass" />
 
-<br/>
+<br />
 
 # Saurav Kale
 
-### Product-minded full-stack engineer who turns ambitious ideas into software people can actually use.
+### I build products that ship.
 
-I’m an engineering geek from Pune—most at home where product thinking, backend systems,<br/>and a polished interface have to work together.
+Full-stack engineer in Pune building multi-tenant products, APIs, background<br />
+workers, real-time flows, and the interfaces people use to run them.
 
-<br/>
+<br />
 
+<a href="https://devxsaurav.in">
+  <img src="https://img.shields.io/badge/Visit_portfolio-F7B955?style=for-the-badge&logo=safari&logoColor=24224A" alt="Visit Saurav's portfolio" />
+</a>
+&nbsp;
 <a href="https://www.devxsaurav.in/resume.pdf">
-  <img src="https://img.shields.io/badge/GET_MY_R%C3%89SUM%C3%89-FF6B6B?style=for-the-badge&logo=readdotcv&logoColor=24224A" alt="Get my résumé" />
+  <img src="https://img.shields.io/badge/Read_r%C3%A9sum%C3%A9-7BE0C3?style=for-the-badge&logo=readdotcv&logoColor=24224A" alt="Read Saurav's résumé" />
 </a>
 &nbsp;
-<a href="https://devxsaurav.in">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-F7B955?style=for-the-badge&logo=safari&logoColor=24224A" alt="Explore my portfolio" />
+<a href="mailto:ksaurav4093@gmail.com">
+  <img src="https://img.shields.io/badge/Start_a_project-FF6B6B?style=for-the-badge&logo=gmail&logoColor=24224A" alt="Email Saurav about a project" />
 </a>
 
-<br/><br/>
+<br /><br />
 
-<a href="https://www.linkedin.com/in/ksaurav24">
-  <img src="https://img.shields.io/badge/LinkedIn-69B7FF?style=flat-square&logo=linkedin&logoColor=24224A" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://devxsaurav.in">
-  <img src="https://img.shields.io/badge/More_about_me-7BE0C3?style=flat-square&logo=safari&logoColor=24224A" alt="More about Saurav" />
-</a>
-&nbsp;
-<a href="https://github.com/ksaurav24?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse_repositories-24224A?style=flat-square&logo=github&logoColor=FFF7EA" alt="Browse repositories" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/ksaurav24) · [All repositories](https://github.com/ksaurav24?tab=repositories) · [Writing](https://www.devxsaurav.in/blog)
 
 </div>
 
-<br/>
+## What I build
 
-## The short version
+Most of my work starts with a messy doc and a founder who needs it live. I turn the scope into data models, API boundaries, product flows, and a useful first release. Then I stay for the production details after launch.
 
-I build across the whole product: shaping the problem, designing the backend, making the interface feel right, wiring integrations, deploying it, and then learning what production thinks of my assumptions.
+TypeScript is my daily language. I reach for Go when a small, direct service is the better answer. I like clean system boundaries, predictable failure modes, and interfaces that make sense on first use.
 
-My centre of gravity is **TypeScript and Go**, usually alongside **NestJS, Next.js, PostgreSQL, MongoDB, Redis, queues, and containers**. I care about system boundaries and failure modes—but also the words on a button and whether the product makes sense to the person using it.
+### Current focus
 
-> **Current orbit:** product engineering · APIs · distributed systems · infrastructure · curious side quests
+| | |
+| --- | --- |
+| Building | Compass and Formiq |
+| Going deeper on | Go, Linux, and distributed systems |
+| Contributing to | Valibot and the TypeScript open-source ecosystem |
 
-<br/>
-
-## Selected builds
+## Technical toolkit
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/OPEN_SOURCE-7BE0C3?style=flat-square&labelColor=24224A" alt="Open source" />
+### Languages
 
-### Formiq
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,go,js,py&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,go,js,py&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,go,js,py&amp;theme=light" alt="TypeScript, Go, JavaScript, and Python" />
+</picture>
 
-**Form infrastructure for developers.**
-
-A complete path from a form submission to a useful outcome: secure ingestion, a typed SDK, a project dashboard, and asynchronous workers for email and webhook delivery.
-
-`API design` · `SDK` · `auth` · `rate limiting` · `queues` · `workers`
-
-![TypeScript](https://img.shields.io/badge/TypeScript-69B7FF?style=flat-square&logo=typescript&logoColor=24224A)
-![MongoDB](https://img.shields.io/badge/MongoDB-7BE0C3?style=flat-square&logo=mongodb&logoColor=24224A)
-![Redis](https://img.shields.io/badge/Redis-FF6B6B?style=flat-square&logo=redis&logoColor=24224A)
-
-<br/>
-
-<a href="https://github.com/ksaurav24/formiq">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_%E2%86%97-24224A?style=for-the-badge&logo=github&logoColor=FFF7EA" alt="View Formiq source" />
-</a>
+TypeScript · Go · JavaScript · Python
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/REPOSITORY_PROJECT-F7B955?style=flat-square&labelColor=24224A" alt="Repository project" />
+### Product UI
 
-### Compass
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,expo&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,expo&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,expo&amp;theme=light" alt="React, Next.js, Tailwind CSS, and Expo" />
+</picture>
 
-**A multi-tenant CRM architecture for real-estate teams.**
+React · Next.js · React Native · Tailwind CSS
 
-Built around the messy part of sales operations: capturing and scoring leads, assigning the right agent, protecting tenant data, and keeping follow-ups moving.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
-`multi-tenancy` · `lead scoring` · `RBAC` · `jobs` · `data isolation`
+### APIs and services
 
-![Next.js](https://img.shields.io/badge/Next.js-FFF7EA?style=flat-square&logo=nextdotjs&logoColor=24224A)
-![NestJS](https://img.shields.io/badge/NestJS-FF6B6B?style=flat-square&logo=nestjs&logoColor=24224A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-69B7FF?style=flat-square&logo=postgresql&logoColor=24224A)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun&amp;theme=light" alt="Node.js, NestJS, Express, and Bun" />
+</picture>
 
-<br/>
+Node.js · NestJS · Express · Bun
 
-<a href="https://github.com/ksaurav24/compass-saas">
-  <img src="https://img.shields.io/badge/VIEW_GITHUB_REPO_%E2%86%97-24224A?style=for-the-badge&logo=github&logoColor=FFF7EA" alt="View the Compass GitHub repository" />
-</a>
+</td>
+<td width="50%" valign="top" align="center">
 
-<br/><sub>Source repository—not presented as a live product.</sub>
+### Data and infrastructure
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx,githubactions,linux&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx,githubactions,linux&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx,githubactions,linux&amp;theme=light" alt="PostgreSQL, MongoDB, Redis, Docker, Nginx, GitHub Actions, and Linux" />
+</picture>
+
+PostgreSQL · MongoDB · Redis · Docker · Linux
 
 </td>
 </tr>
 </table>
 
-<br/>
+### Systems I work on
 
-## Work beyond my repos
+| Area | Experience |
+| --- | --- |
+| Backend architecture | REST APIs, multi-tenancy, RBAC, rate limiting, queues, workers |
+| Real-time and integrations | Webhooks, WhatsApp Cloud API, WebSockets, gRPC, Server-Sent Events |
+| Product engineering | Dashboards, internal tools, analytics, responsive interfaces |
+| Delivery | Containerized deployments, reverse proxies, CI/CD, production operations |
+
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### CarePilot
+### [Formiq](https://github.com/ksaurav24/formiq)
 
-<img src="https://img.shields.io/badge/ENGINEERING_INTERN-69B7FF?style=flat-square&labelColor=24224A" alt="Engineering intern" />
+<sub>Open source · Form infrastructure</sub>
 
-At **Mindtrot Technologies**, I work on an out-of-hospital care product—building product flows, improving existing ones, and keeping heavier parts of the React application responsive.
+A developer-facing path from form submission to delivery. It combines secure ingestion, a TypeScript SDK, a project dashboard, analytics, and background workers for email and webhooks.
 
-**React · TypeScript**
+`TypeScript` `MongoDB` `Redis` `BullMQ`
 
-[Visit Mindtrot ↗](https://www.mindtrot.com/)
+[Browse the source](https://github.com/ksaurav24/formiq)
 
 </td>
 <td width="50%" valign="top">
 
-### Offease
+### [Compass](https://github.com/ksaurav24/compass-saas)
 
-<img src="https://img.shields.io/badge/CLIENT_PRODUCT-FF6B6B?style=flat-square&labelColor=24224A" alt="Client product" />
+<sub>In development · Real-estate CRM</sub>
 
-Built and shipped end-to-end through **Apex Labs**, spanning the customer product, internal workflows, backend, analytics, deployment, and operations.
+A multi-tenant CRM for real-estate teams, built around lead capture, scoring, agent assignment, follow-ups, role-based access, and tenant data isolation.
 
-**Next.js · TypeScript · MongoDB · Docker · Traefik**
+`Next.js` `NestJS` `PostgreSQL` `Redis`
 
-[Visit Offease ↗](https://myoffease.com)
+[Browse the repository](https://github.com/ksaurav24/compass-saas)
 
 </td>
 </tr>
 </table>
 
-<br/>
+## Work in production
 
-## My engineering palette
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Offease](https://myoffease.com)
+
+I built and shipped this co-working space product through Apex Labs. The work covered the customer experience, internal workflows, backend, analytics, deployment, and operations.
+
+`Next.js` `TypeScript` `MongoDB` `Docker` `Traefik`
+
+</td>
+<td width="50%" valign="top">
+
+### [CarePilot](https://www.mindtrot.com/)
+
+At Mindtrot Technologies, I work on the frontend of an out-of-hospital care product. I build product flows, fix existing ones, and keep the busier parts of the React application responsive.
+
+`React` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+## Open source and side quests
+
+My first upstream contribution to [Valibot](https://github.com/open-circle/valibot), the modular schema library for TypeScript, shipped in [v1.4.0](https://github.com/open-circle/valibot/releases/tag/v1.4.0).
+
+A missing projector remote once led me through Android boot scripts, dynamic partitions, and an unwanted OEM service. I eventually put a small Go server on the projector and controlled it over the network. [Read the projector story](https://www.devxsaurav.in/blog/rooting-the-projector).
+
+## Public GitHub activity
 
 <div align="center">
 
-![Languages](https://img.shields.io/badge/LANGUAGES-TypeScript_%C2%B7_Go_%C2%B7_JavaScript_%C2%B7_Python-69B7FF?style=for-the-badge&labelColor=24224A)
-![Backend](https://img.shields.io/badge/BACKEND-NestJS_%C2%B7_Node.js_%C2%B7_Express-7BE0C3?style=for-the-badge&labelColor=24224A)
-![Data](https://img.shields.io/badge/DATA-PostgreSQL_%C2%B7_MongoDB_%C2%B7_Redis-F7B955?style=for-the-badge&labelColor=24224A)
+<a href="https://github.com/ksaurav24">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ksaurav24&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars,issues&amp;show=reviews,prs_merged&amp;custom_title=Public%20GitHub%20activity&amp;disable_animations=true&amp;title_color=FFF7EA&amp;text_color=E6EDF3&amp;icon_color=F7B955&amp;bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ksaurav24&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars,issues&amp;show=reviews,prs_merged&amp;custom_title=Public%20GitHub%20activity&amp;disable_animations=true&amp;title_color=24224A&amp;text_color=24224A&amp;icon_color=FF6B6B&amp;bg_color=00000000" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ksaurav24&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars,issues&amp;show=reviews,prs_merged&amp;custom_title=Public%20GitHub%20activity&amp;disable_animations=true&amp;title_color=24224A&amp;text_color=24224A&amp;icon_color=FF6B6B&amp;bg_color=00000000" alt="Saurav's public GitHub activity, including commits, pull requests, reviews, and repositories contributed to" />
+  </picture>
+</a>
 
-![Frontend](https://img.shields.io/badge/PRODUCT_UI-Next.js_%C2%B7_React_%C2%B7_Tailwind-FF6B6B?style=for-the-badge&labelColor=24224A)
-![Systems](https://img.shields.io/badge/SYSTEMS-Queues_%C2%B7_WebSockets_%C2%B7_gRPC_%C2%B7_SSE-69B7FF?style=for-the-badge&labelColor=24224A)
-![Infrastructure](https://img.shields.io/badge/INFRA-Docker_%C2%B7_Nginx_%C2%B7_GitHub_Actions-7BE0C3?style=for-the-badge&labelColor=24224A)
+<sub>Public repositories only. Client work and private contributions are not included.</sub>
 
 </div>
 
-<br/>
+## From the journal
 
-## Open source, for real
+- [Building a plug-and-play WhatsApp service for a multi-tenant CRM](https://www.devxsaurav.in/blog/plug-and-play-whatsapp-service-for-multi-tenant-crm) covers embedded signup, tenant isolation, webhooks, messaging, and analytics.
+- [The night we forgot the remote](https://www.devxsaurav.in/blog/rooting-the-projector) is the full account of rooting an Android projector and running a Go service on it.
 
-My first proper upstream contribution landed in **[Valibot](https://github.com/open-circle/valibot)**, the modular schema validation library for TypeScript, and shipped with **Valibot v1.4**. Contributing to a tool people already rely on felt much more useful than opening another repository called `awesome-something`.
-
-<br/>
-
-## The rabbit-hole department
-
-Sometimes “one quick experiment” becomes taking apart an Android projector, investigating its boot setup and partitions, removing an unwelcome OEM service, and running a small Go server directly on the device to control it over the network.
+<br />
 
 <div align="center">
 
-<a href="https://www.devxsaurav.in/blog/rooting-the-projector">
-  <img src="https://img.shields.io/badge/READ-The_projector_rabbit_hole-F7B955?style=for-the-badge&labelColor=24224A&logo=readme&logoColor=FFF7EA" alt="Read the projector rabbit hole" />
-</a>
-&nbsp;
-<a href="https://www.devxsaurav.in/blog/plug-and-play-whatsapp-service-for-multi-tenant-crm">
-  <img src="https://img.shields.io/badge/READ-Multi--tenant_WhatsApp_architecture-7BE0C3?style=for-the-badge&labelColor=24224A&logo=readme&logoColor=FFF7EA" alt="Read the WhatsApp architecture article" />
-</a>
+## Have a product to ship?
 
-</div>
+Send me the rough version. We can figure out the shape of it together.
 
-<br/>
+[**Email me**](mailto:ksaurav4093@gmail.com) · [**Book a call**](https://devxsaurav.in) · [**Connect on LinkedIn**](https://www.linkedin.com/in/ksaurav24)
 
----
+<br />
 
-<div align="center">
-
-### Have an interesting product or a wonderfully difficult system problem?
-
-<a href="https://www.linkedin.com/in/ksaurav24">
-  <img src="https://img.shields.io/badge/LET%27S_TALK-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=24224A" alt="Contact Saurav on LinkedIn" />
-</a>
-
-<br/><br/>
-
-<sub>Pune, India · usually somewhere between Go, TypeScript, Linux, and an unnecessarily interesting browser tab.</sub>
+<sub>Pune, India · TypeScript, Go, Linux, and the occasional hardware rabbit hole</sub>
 
 </div>
