@@ -45,11 +45,10 @@ TypeScript is my daily language. I reach for Go when a small, direct service is 
 
 ### Current focus
 
-| | |
-| --- | --- |
-| Building | Compass and Formiq |
+|                 |                                    |
+| --------------- | ---------------------------------- |
 | Going deeper on | Go, Linux, and distributed systems |
-| Contributing to | Valibot and the TypeScript open-source ecosystem |
+| Contributing to | Valibot                            |
 
 ## Technical toolkit
 
@@ -114,12 +113,12 @@ PostgreSQL · MongoDB · Redis · Docker · Linux
 
 ### Systems I work on
 
-| Area | Experience |
-| --- | --- |
-| Backend architecture | REST APIs, multi-tenancy, RBAC, rate limiting, queues, workers |
-| Real-time and integrations | Webhooks, WhatsApp Cloud API, WebSockets, gRPC, Server-Sent Events |
-| Product engineering | Dashboards, internal tools, analytics, responsive interfaces |
-| Delivery | Containerized deployments, reverse proxies, CI/CD, production operations |
+| Area                       | Experience                                                               |
+| -------------------------- | ------------------------------------------------------------------------ |
+| Backend architecture       | REST APIs, multi-tenancy, RBAC, rate limiting, queues, workers           |
+| Real-time and integrations | Webhooks, WhatsApp Cloud API, WebSockets, gRPC, Server-Sent Events       |
+| Product engineering        | Dashboards, internal tools, analytics, responsive interfaces             |
+| Delivery                   | Containerized deployments, reverse proxies, CI/CD, production operations |
 
 ## Selected work
 
