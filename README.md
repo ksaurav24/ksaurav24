@@ -5,9 +5,7 @@
 -->
 
 <div align="center">
-
-<img src="./assets/profile-landscape.webp" width="100%" alt="An illustrated landscape where connected product screens sit among bridges, water, and a compass" />
-
+ 
 <br />
 
 # Saurav Kale
