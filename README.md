@@ -1,4 +1,3 @@
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/200w.gif" width="170" align="right" alt="cat typing on a laptop" />
 
 ### hey, i'm saurav
 
