@@ -23,7 +23,7 @@ typescript, node, nestjs, express, bun · postgres, mongodb, redis · bullmq, ra
 - a pr in [valibot](https://github.com/open-circle/valibot/pull/1457) that got merged
 
 #### currently
-working on [valve](https://github.com/ksaurav24/valve)
+working on [valve](https://github.com/ksaurav24/valve) <br>
 reading shrimanyogi and ikigai<br>
 watching black clover and kaguya-sama: love is war<br> 
 
