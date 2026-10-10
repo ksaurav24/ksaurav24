@@ -23,10 +23,9 @@ typescript, node, nestjs, express, bun · postgres, mongodb, redis · bullmq, ra
 - a pr in [valibot](https://github.com/open-circle/valibot/pull/1457) that got merged
 
 #### currently
-
+working on [valve](https://github.com/ksaurav24/valve)
 reading shrimanyogi and ikigai<br>
-watching black clover and kaguya-sama: love is war<br>
-drinking monster. boht saara<br>
+watching black clover and kaguya-sama: love is war<br> 
 
 <p>
   <img src="https://media.giphy.com/media/SZKUsxIcIj1cpPpdw2/200w.gif" height="140" alt="kaguya shinomiya from kaguya-sama: love is war" />
